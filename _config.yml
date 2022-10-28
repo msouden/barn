@@ -17,7 +17,7 @@ title: Sandbox
 email: msouden@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Holding space for public-facing links to development sandboxes, unfinished projects, and/or resources.
-baseurl: "/sandbox" # the subpath of your site, e.g. /blog
+baseurl: "/barn" # the subpath of your site, e.g. /blog
 url: "msouden.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: msouden
 github_username:  msouden
