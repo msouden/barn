@@ -17,8 +17,8 @@ title: Pole Barn
 email: msouden@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Holding space for public-facing links to development sandboxes, unfinished projects, and/or resources.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/barn" # the subpath of your site, e.g. /blog
+url: "https://msouden.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: msouden
 github_username:  msouden
 
