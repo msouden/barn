@@ -20,7 +20,7 @@ This is an incomplete list of old projects, resources, scripts, abandoned explor
 
 - I [forked](https://github.com/msouden/content/blob/main/CONTRIBUTING.md) the [Mozilla Developer Network](https://github.com/mdn/content) Content repo with intentions of contributing. 
 
-- Another repeating task I automated [used python and RegEx to process EDI 834 format files](https://github.com/msouden/HIPAA-834-file-processor) into rosters of client members. These were used to verify eligibility for benefits before claims began processing. Please note, 834EDI file types are very old and the "spec" implementation is essentially unique to each providing organization, so each client was required their own automation.
+- Another repeating task I automated [used python and RegEx to process EDI 834 format files](https://github.com/msouden/HIPAA-834-file-processor){:target="_blank"} into rosters of client members. These were used to verify eligibility for benefits before claims began processing. Please note, 834EDI file types are very old and the "spec" implementation is essentially unique to each providing organization, so each client was required their own automation.
 
 - When getting into basic data science, I [forked](https://github.com/msouden/datasharing/tree/master) Jeff Leek's [data sharing repo](https://github.com/jtleek/datasharing) He developed a more formal and developed structure for a process I had come across the need for and included resources for data science fundamentals (scraping, cleaning, munging, analysis, and information design).
 
