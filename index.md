@@ -16,7 +16,7 @@ This is an incomplete list of old projects, resources, scripts, abandoned explor
 	- 	 populated the defined fields with the correct extracted data
 	- 	 Then exited, leaving both the pdf open in the user's default viewer and the filled in form to provide manual review and any additional information before submission
 	
-	Once the script was functional, I compiled this into a windows executable desktop shortcut and distributed it to appropriate staff with documentation for usage.
+	Once the script was functional, I compiled this into a windows executable desktop shortcut and distributed it to appropriate staff with documentation for usage. The task became one of dragging the file to the icon, review, complete if needed, and submit.
 
 - I [forked](https://github.com/msouden/content/blob/main/CONTRIBUTING.md) the [Mozilla Developer Network](https://github.com/mdn/content) Content repo with intentions of contributing. 
 
