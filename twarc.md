@@ -6,12 +6,12 @@ permalink: /twarc/
 
 ## notes on Twarc:
 
-[https://scholarslab.github.io/learn-twarc/](https://scholarslab.github.io/learn-twarc/)
+[https://scholarslab.github.io/learn-twarc/](https://scholarslab.github.io/learn-twarc/){:target="_blank"}
 
-### from: [Twarc Tutorials](https://twarc-project.readthedocs.io/en/latest/tutorials/)
+### from: [Twarc Tutorials](https://twarc-project.readthedocs.io/en/latest/tutorials/){:target="_blank"}
 
 
-<p>Documentation here is largely auto generated from the code, which may not always be the most user friendly. Others have written great totorials on using twarc, and these are linked here.</p>
+<p>Documentation here is largely auto generated from the code, which may not always be the most user friendly. Others have written great tutorials on using twarc, and these are linked here.</p>
 
 ### UVA Library's Scholars' Lab Twarc Tutorial
 <p><a href="https://scholarslab.github.io/learn-twarc/">https://scholarslab.github.io/learn-twarc/</a></p>
