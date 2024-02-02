@@ -5,7 +5,7 @@
 layout: page
 ---
 
-This is an incomplete list of old projects, resources, scripts, abandoned explorations, anything that at some point I may want to point someone to. There's some crossover with my portfolio- which can be found [here.]([https://msouden.com/work/]{:target="_blank"})
+This is an incomplete list of old projects, resources, scripts, abandoned explorations, anything that at some point I may want to point someone to. There's some crossover with my portfolio- which can be found [here.]([https://msouden.com/work/])
 
 - An intake workflow I automated for a small healthcare startup [started as a python script](https://github.com/msouden/pdf-to-web-form){:target="_blank"} for form data. The company received (at the time) roughly 8-12 times daily a standardized pdf document which required about 24 fields of data be keyed into an intake form on the SAAS platform the company used as a sort of ad-hoc ERP. This script;
 
